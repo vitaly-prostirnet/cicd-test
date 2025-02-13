@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/cicd-test
+
+git checkout staging
+git pull
